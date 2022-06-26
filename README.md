@@ -1,6 +1,8 @@
 # Credit_Card_Default using SVM
+
+The task here is to classify whether a person will default or not on their credit card using various feautures like age, sex, marital status, past payments etc.
  
-For this problem I built support vector machine for classification(using scikit learn and the Radial Basis Function(RBF) kernel). The training dataset contains both continuous and categorical data from the UCI Machine Learning Repository to classify whether a person wil default or not on their credit card.
+To accomplish the task I built support vector machine for classification(using scikit learn and the Radial Basis Function(RBF) kernel). The training dataset contains both continuous and categorical data from the UCI Machine Learning Repository to classify whether a person will default or not on their credit card.
 
 For this problem I used the following steps:,
     1. Importing the data and necessary libraries.
