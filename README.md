@@ -4,7 +4,10 @@ The task here is to classify whether a person will default or not on their credi
  
 To accomplish the task I built support vector machine for classification(using scikit learn and the Radial Basis Function(RBF) kernel). The training dataset contains both continuous and categorical data from the UCI Machine Learning Repository to classify whether a person will default or not on their credit card.
 
-For this problem I used the following steps:                                                                                                                   1. Importing the data and necessary libraries. 
+For this problem I used the following steps:   
+
+1. Importing the data and necessary libraries.
+2. Identifying and handling missing values. 
     2. Identifying and handling missing values.                                                                                                                 3. Downsampling data.                                                                                                                                       4. Train-test split the data.
     5. Building a preliminary svm.
     6. Doing hyperparamter tuning to find the best optimization parameters like gamma.
