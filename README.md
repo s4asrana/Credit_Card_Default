@@ -13,7 +13,7 @@ For this problem I used the following steps:
 5. Building a preliminary svm.
 6. Doing hyperparamter tuning to find the best optimization parameters like gamma.
 7. Evaluating and interpreting the final svm.
-8. 
+
     
 Data Description:
     
