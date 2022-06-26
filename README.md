@@ -8,10 +8,12 @@ For this problem I used the following steps:
 
 1. Importing the data and necessary libraries.
 2. Identifying and handling missing values. 
-    2. Identifying and handling missing values.                                                                                                                 3. Downsampling data.                                                                                                                                       4. Train-test split the data.
-    5. Building a preliminary svm.
-    6. Doing hyperparamter tuning to find the best optimization parameters like gamma.
-    7. Evaluating and interpreting the final svm.
+3. Downsampling data. 
+4. Train-test split the data.
+5. Building a preliminary svm.
+6. Doing hyperparamter tuning to find the best optimization parameters like gamma.
+7. Evaluating and interpreting the final svm.
+8. 
     
 Data Description:
     
